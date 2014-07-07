@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideMenuLayout">
+        <attr name="pane_width" format="dimension"/>
+        <attr name="pane_layout" format="reference"/>
+        <attr name="main_layout" format="reference"/>
+    </declare-styleable>
+</resources>
